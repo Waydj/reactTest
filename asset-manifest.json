@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactTest/static/css/main.fb491c03.chunk.css",
+    "main.js": "/reactTest/static/js/main.5fe44a2a.chunk.js",
+    "main.js.map": "/reactTest/static/js/main.5fe44a2a.chunk.js.map",
+    "runtime-main.js": "/reactTest/static/js/runtime-main.eb7681d0.js",
+    "runtime-main.js.map": "/reactTest/static/js/runtime-main.eb7681d0.js.map",
+    "static/js/2.b1f5c0ef.chunk.js": "/reactTest/static/js/2.b1f5c0ef.chunk.js",
+    "static/js/2.b1f5c0ef.chunk.js.map": "/reactTest/static/js/2.b1f5c0ef.chunk.js.map",
+    "index.html": "/reactTest/index.html",
+    "static/css/main.fb491c03.chunk.css.map": "/reactTest/static/css/main.fb491c03.chunk.css.map",
+    "static/js/2.b1f5c0ef.chunk.js.LICENSE.txt": "/reactTest/static/js/2.b1f5c0ef.chunk.js.LICENSE.txt",
+    "static/media/error.42292aa1.gif": "/reactTest/static/media/error.42292aa1.gif",
+    "static/media/mjolnir.61f31e18.png": "/reactTest/static/media/mjolnir.61f31e18.png",
+    "static/media/vision.067d4ae1.png": "/reactTest/static/media/vision.067d4ae1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb7681d0.js",
+    "static/js/2.b1f5c0ef.chunk.js",
+    "static/css/main.fb491c03.chunk.css",
+    "static/js/main.5fe44a2a.chunk.js"
+  ]
+}
